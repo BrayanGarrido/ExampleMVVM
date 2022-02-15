@@ -1,13 +1,13 @@
 # Room con MVVM
 Aplicación desarrollada con Room y Model View ViewModel.
 
-Almacena correo y nombre de usuario 
+Almacena correo y nombre de usuario\n
 
-Nombre de la base de datos "subscriber_data_database"
-Nombre de la tabla "subscriber_data_table"
-______________________________________________________
-| subscriber_id | subscriber_name | subscriber_email |
-|____________________________________________________|
+Nombre de la base de datos "subscriber_data_database"\n
+Nombre de la tabla "subscriber_data_table"\n
+______________________________________________________\n
+| subscriber_id | subscriber_name | subscriber_email |\n
+|____________________________________________________|\n
 
 ```groovy
 	dependences {
